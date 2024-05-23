@@ -8,6 +8,7 @@
 
 - ⚙️ I use daily: `swift`, `kotlin`, `ruby`, `js`, `firebase`
 - 👨🏻‍💻 Latest app I've developed: [OutyPlay for iOS](https://apps.apple.com/app/id6450551793) and [OutyPlay for Android](https://play.google.com/store/apps/details?id=com.proapptivasrls.outyplay)
+- 👨🏻‍💻 Latest web project: [StringSwitch](https://github.com/fabdurso/stringswitch)
 - 👨🏻‍💻 Previous app: [Noon Happen for iOS](https://apps.apple.com/us/app/id1477310602) and [Noon Happen for Android](https://play.google.com/store/apps/details?id=com.noonhappen.noonhappen)
 - 🌱 Learning all about **AI** and **Product Management**
 
