@@ -1,19 +1,99 @@
 ### Hello there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-fabdurso-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabdurso/)](https://www.linkedin.com/in/fabdurso/)
-[![Twitter Badge](https://img.shields.io/badge/-@fabdurso-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fabdurso)](https://twitter.com/fabdurso)
-[![Instagram Badge](https://img.shields.io/badge/-@fabdurso-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/fabdurso/)](https://instagram.com/fabdurso)
+I’m a full-stack mobile & web developer with 15+ years building fast, user-focused, high-performance apps — from concept to launch.
 
-#### Full-Stack Mobile Developer and QA Team Lead
+I ship products end-to-end (UI, backend, AI features, CI/CD).
 
-- ⚙️ I use daily: `swift`, `kotlin`, `ruby`, `js`, `firebase`
-- 👨🏻‍💻 Latest app I've developed: [OutyPlay for iOS](https://apps.apple.com/app/id6450551793) and [OutyPlay for Android](https://play.google.com/store/apps/details?id=com.proapptivasrls.outyplay)
-- 👨🏻‍💻 Latest web project: [StringSwitch](https://github.com/fabdurso/stringswitch)
-- 👨🏻‍💻 Previous app: [Noon Happen for iOS](https://apps.apple.com/us/app/id1477310602) and [Noon Happen for Android](https://play.google.com/store/apps/details?id=com.noonhappen.noonhappen)
-- 🌱 Learning all about **AI** and **Product Management**
+- 📱 Mobile: React Native (cross-platform), native iOS (Swift) and Android (Kotlin)
 
-I am a passionate software developer with extensive expertise in mobile app development, specializing in iOS apps since 2010 and Android apps since 2018. As an indie maker and solopreneur, I handle app development from inception to deployment on the app stores. The latest apps I've developed are OutyPlay and Noon Happen.
+- 🌐 Web: React + JavaScript on the frontend, Node.js + AWS Lambda on the backend
 
-In addition, I have a decade of experience in QA, both manual and automation testing. For the past three years, I have led a QA team at [Crisalix](https://crisalix.com), ensuring the quality of the products and services we develop.
+- 🤖 AI: I integrate OpenAI and other AI APIs to create smarter, dynamic experiences
 
-I am also a digital nomad who loves traveling the world while pursuing my passion for technology.
+- 🚚 Indie maker: I design → build → ship solo, optimizing for speed, quality and impact
+
+⸻
+
+### 🚀 Latest indie projects
+
+- [Don Gaitano](https://apps.apple.com/app/id6523432431) — AI-powered dream interpretation with a Neapolitan twist
+
+- [StringSwitch](https://github.com/fabdurso/stringswitch) - Useful tool for native iOS and Android developers
+
+- [OutyPlay](https://apps.apple.com/app/id6450551793) — find nearby players and join outdoor sports matches
+  
+- [Noon Happen](https://apps.apple.com/us/app/id1477310602) — smart, food-based dating app that syncs timing and taste
+  
+⸻
+
+### 💼 Experience snapshot
+
+- Technical Lead @ Ruralis — leading end-to-end product and engineering.
+
+- [Former] Crisalix (11 yrs) — grew from QA Tester → QA Team Lead → Product Manager.
+
+⸻
+
+### 🌍 What drives me
+
+Travel, culture, and sports. I’ve lived in multiple countries (notably Indonesia and Spain), visited 20+ nations, and play football, basketball, beach volleyball, tennis, and padel.
+
+These experiences shape how I build: tech that connects people in meaningful ways.
+
+⸻
+
+### 🔧 Superpowers & Toolbox
+
+#### Programming Languages
+
+Swift · Kotlin · JavaScript · Python · Ruby · Objective-C · Java
+
+#### Frameworks / Libraries
+
+React · React Native · Firebase · Google APIs · Rails
+
+#### Markup, Styling & Data
+
+HTML · CSS · XML · YAML
+
+#### Development Tools
+
+Xcode · Android Studio · Terminal · Postman · VS Code
+
+#### Version Control
+
+Git · GitHub · GitLab · Bitbucket
+
+#### QA & Testing
+
+Capybara · Selenium · SauceLabs · TestRail
+
+#### Cloud & Databases
+
+AWS Lambda / API Gateway · DynamoDB · Firebase Cloud Messaging · Firestore · Google Cloud · DigitalOcean · SQL Databases
+
+#### AI
+
+OpenAI API · ChatGPT Assistants · Gemini
+
+#### Deployment & Analytics
+
+App Store Connect · GitHub Actions · Jenkins · Google Analytics · Meta Business Suite
+
+#### Project Management
+
+Jira · Notion · Trello
+
+#### Design Tools
+
+Figma · Photoshop · Illustrator · GIMP · Inkscape
+
+⸻
+
+### 🛠 What I can help you build
+
+- Custom mobile & web apps from idea to launch — full stack.
+
+- iOS, Android, React Native, React, Node.js, Firebase, AWS Lambda, AI.
+
+- Lean, purposeful, high-impact products people love to use.
