@@ -1,99 +1,48 @@
 ### Hello there 👋
 
-I’m a full-stack mobile & web developer with 15+ years building fast, user-focused, high-performance apps — from concept to launch.
+I’m a full-stack engineer with 15+ years of experience turning ideas and manual workflows into fast, user-focused apps – from concept to launch.
 
-I ship products end-to-end (UI, backend, AI features, CI/CD).
+I design, build, and ship products end-to-end (UI, backend, AI features, CI/CD), with a strong focus on operations, internal tools, and custom workflows.
 
-- 📱 Mobile: React Native (cross-platform), native iOS (Swift) and Android (Kotlin)
+- 📱 **Mobile**: React Native (cross-platform), native iOS (Swift) and Android (Kotlin)
+- 🌐 **Web**: React + JavaScript on the frontend, Node.js + AWS Lambda on the backend
+- 🤖 **AI**: OpenAI and other AI APIs for assistants, smart features, and automation
+- 🚀 **Indie maker**: I design → build → ship solo, optimizing for speed, quality, and impact
 
-- 🌐 Web: React + JavaScript on the frontend, Node.js + AWS Lambda on the backend
-
-- 🤖 AI: I integrate OpenAI and other AI APIs to create smarter, dynamic experiences
-
-- 🚚 Indie maker: I design → build → ship solo, optimizing for speed, quality and impact
-
-⸻
+---
 
 ### 🚀 Latest indie projects
 
-- [Don Gaitano](https://apps.apple.com/app/id6523432431) — AI-powered dream interpretation with a Neapolitan twist
+- [**Don Gaitano**](https://apps.apple.com/app/id6523432431) – AI-powered dream interpretation with a Neapolitan twist (Smorfia-inspired, voice-driven character).
+- [**StringSwitch**](https://github.com/fabdurso/stringswitch) – Localization helper for native iOS and Android developers (string file conversion).
+- [**OutyPlay**](https://apps.apple.com/app/id6450551793) – Find nearby players and join outdoor sports matches.
+- [**Noon Happen**](https://apps.apple.com/us/app/id1477310602) – Food-based dating app that matches people on tastes and timing.
 
-- [StringSwitch](https://github.com/fabdurso/stringswitch) - Useful tool for native iOS and Android developers
-
-- [OutyPlay](https://apps.apple.com/app/id6450551793) — find nearby players and join outdoor sports matches
-  
-- [Noon Happen](https://apps.apple.com/us/app/id1477310602) — smart, food-based dating app that syncs timing and taste
-  
-⸻
+---
 
 ### 💼 Experience snapshot
 
-- Technical Lead @ Ruralis — leading end-to-end product and engineering.
+- **Contract Lead Software Developer @ [Ruralis](https://ruralis.com)**  
+  Leading product and engineering for a growing PropTech platform: core architecture, property-owner mobile app, internal CRM, guest portal, automations, and AI-powered features.
 
-- [Former] Crisalix (11 yrs) — grew from QA Tester → QA Team Lead → Product Manager.
+- **Former QA Lead → Product Manager @ [Crisalix](https://crisalix.com)**  
+  11 years growing from QA Tester to QA Lead and Product Manager on a global 3D/VR platform for aesthetic surgery.
 
-⸻
+---
 
 ### 🌍 What drives me
 
-Travel, culture, and sports. I’ve lived in multiple countries (notably Indonesia and Spain), visited 20+ nations, and play football, basketball, beach volleyball, tennis, and padel.
+Travel, culture, and sports.  
+I’ve lived in multiple countries (notably Indonesia and Spain), visited 20+ nations, and played everything from football and basketball to beach volleyball, tennis, and padel.
 
-These experiences shape how I build: tech that connects people in meaningful ways.
+These experiences shape how I build: technology that connects people in meaningful, real-world ways.
 
-⸻
-
-### 🔧 Superpowers & Toolbox
-
-#### Programming Languages
-
-Swift · Kotlin · JavaScript · Python · Ruby · Objective-C · Java
-
-#### Frameworks / Libraries
-
-React · React Native · Firebase · Google APIs · Rails
-
-#### Markup, Styling & Data
-
-HTML · CSS · XML · YAML
-
-#### Development Tools
-
-Xcode · Android Studio · Terminal · Postman · VS Code
-
-#### Version Control
-
-Git · GitHub · GitLab · Bitbucket
-
-#### QA & Testing
-
-Capybara · Selenium · SauceLabs · TestRail
-
-#### Cloud & Databases
-
-AWS Lambda / API Gateway · DynamoDB · Firebase Cloud Messaging · Firestore · Google Cloud · DigitalOcean · SQL Databases
-
-#### AI
-
-OpenAI API · ChatGPT Assistants · Gemini
-
-#### Deployment & Analytics
-
-App Store Connect · GitHub Actions · Jenkins · Google Analytics · Meta Business Suite
-
-#### Project Management
-
-Jira · Notion · Trello
-
-#### Design Tools
-
-Figma · Photoshop · Illustrator · GIMP · Inkscape
-
-⸻
+---
 
 ### 🛠 What I can help you build
 
-- Custom mobile & web apps from idea to launch — full stack.
+- Custom mobile and web apps, from first idea to live product.
+- Internal tools, dashboards, and workflows that replace spreadsheets and manual work.
+- AI-powered features and automations that make your product and operations smarter.
 
-- iOS, Android, React Native, React, Node.js, Firebase, AWS Lambda, AI.
-
-- Lean, purposeful, high-impact products people love to use.
+If you’re working on something in this space and need a full-stack partner, feel free to reach out.
